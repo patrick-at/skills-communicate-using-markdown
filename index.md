@@ -9,3 +9,8 @@ lorem ipsum lmao hello
 String string = "hola como estas?";
 String string2 = "muy bien";
 ```
+
+- [X] Empezar las clases
+- [ ] Terminar las clases
+- [ ] Instalar el safe browser
+- [ ] Aprobar el examen
